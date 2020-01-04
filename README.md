@@ -1,0 +1,7 @@
+demo1(http://hikekazarian.ru/portfolio/design-jpg/tionit-home-draft-v3.jpg)
+demo2(http://hikekazarian.ru/portfolio/design-jpg/pros-cons-test-task.jpg)
+demo3(http://hikekazarian.ru/portfolio/design-jpg/verona-uc.jpg)
+demo4(http://hikekazarian.ru/portfolio/design-jpg/makeup-home.jpg)
+demo5(http://hikekazarian.ru/portfolio/design-jpg/makeup-ui)
+demo6(http://hikekazarian.ru/portfolio/design-jpg/ka-home.jpg)
+demo7(http://hikekazarian.ru/portfolio/design-jpg/travel-inner.png) 
